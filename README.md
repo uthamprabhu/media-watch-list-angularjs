@@ -1,3 +1,7 @@
+# Hosted project
+
+Click the link to see the final project [Media Watch List](https://media-watch-list-angularjs.web.app/)
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
